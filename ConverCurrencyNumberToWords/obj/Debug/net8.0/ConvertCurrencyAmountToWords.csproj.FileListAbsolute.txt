@@ -1,0 +1,96 @@
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.exe
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.deps.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.runtimeconfig.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.AssemblyReference.cache
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfoInputs.cache
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfo.cs
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.CoreCompileInputs.cache
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.ConvertCurrencyAmountToWords.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.build.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\scopedcss\bundle\ConvertCurrencyAmountToWords.styles.css
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertC.DF035EF3.Up2Date
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\refint\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.genruntimeconfig.cache
+C:\Users\26080529\source\repos\ConverCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ref\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.exe
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.deps.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.runtimeconfig.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.AssemblyReference.cache
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfoInputs.cache
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfo.cs
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.CoreCompileInputs.cache
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.ConvertCurrencyAmountToWords.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.build.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConvertCurrencyAmountToWords.props
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\scopedcss\bundle\ConvertCurrencyAmountToWords.styles.css
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertC.DF035EF3.Up2Date
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\refint\ConvertCurrencyAmountToWords.dll
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.genruntimeconfig.cache
+C:\Users\26080529\source\repos\ConvertCurrencyNumberToWords\ConverCurrencyNumberToWords\obj\Debug\net8.0\ref\ConvertCurrencyAmountToWords.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.Development.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\appsettings.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.exe
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.deps.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.runtimeconfig.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.AssemblyReference.cache
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfoInputs.cache
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.AssemblyInfo.cs
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.csproj.CoreCompileInputs.cache
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.build.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.development.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.ConvertCurrencyAmountToWords.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.build.ConvertCurrencyAmountToWords.props
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConvertCurrencyAmountToWords.props
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConvertCurrencyAmountToWords.props
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\scopedcss\bundle\ConvertCurrencyAmountToWords.styles.css
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertC.DF035EF3.Up2Date
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\refint\ConvertCurrencyAmountToWords.dll
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.pdb
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ConvertCurrencyAmountToWords.genruntimeconfig.cache
+d:\Users\26080529\OneDrive - ARÇELİK A.Ş\Desktop\EcemBin-CodingTaskNew\ConvertCurrencyNumberToWords-BE\ConverCurrencyNumberToWords\obj\Debug\net8.0\ref\ConvertCurrencyAmountToWords.dll
